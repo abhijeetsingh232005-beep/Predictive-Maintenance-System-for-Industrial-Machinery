@@ -66,4 +66,4 @@ The dataset **must** be in **CSV** format and should contain **at least** the fo
 
 **Developed by:** Abhijeet Singh ||
 **Email:** [abhijeetsingh232005@gmail.com] ||
-**LinkedIn:** [https://www.linkedin.com/in/abhijeet-singh-0a2a552a2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQiyU%2FUH6Tx6H%2BpdE%2FBJH8Q%3D%3D]
+**LinkedIn:** [https://www.linkedin.com/in/abhijeet-singh-0a2a552a2]
