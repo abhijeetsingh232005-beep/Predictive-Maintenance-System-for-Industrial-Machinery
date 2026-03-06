@@ -65,5 +65,5 @@ The dataset **must** be in **CSV** format and should contain **at least** the fo
 ## 📧 Contact
 
 **Developed by:** Abhijeet Singh ||
-**Email:** [abhijeetsingh232005@gmail.com] ||
-**LinkedIn:** [https://www.linkedin.com/in/abhijeet-singh-0a2a552a2]
+**Email:** [abhijeetsingh232005@gmail.com](mailto:abhijeetsingh232005@gmail.com) ||
+**LinkedIn:** [https://www.linkedin.com/in/abhijeet-singh-0a2a552a2](https://www.linkedin.com/in/abhijeet-singh-0a2a552a2)
